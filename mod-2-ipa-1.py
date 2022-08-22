@@ -118,6 +118,7 @@ def body_mass_index(weight, height):
     # Stay within the function. Only use the parameters as input. The function should return your answer.
     
     # Convert weight in pounds to kilograms
+    weight = pounds
     weight = pounds/2.2046
     # Convert height to meters
     # Get the first and last element using list indexing
